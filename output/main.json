@@ -170,7 +170,7 @@
     },
     "artifactsBaseUrl": {
       "type": "string",
-      "defaultValue": "https://raw.githubusercontent.com/microsoft/azure-api-management-monetization/main",
+      "defaultValue": "https://raw.githubusercontent.com/tguructa/azure-api-management-monetization/main",
       "metadata": {
         "description": "The base URL for artifacts used in deployment."
       }
