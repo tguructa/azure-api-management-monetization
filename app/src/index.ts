@@ -49,7 +49,7 @@ if (paymentProvider === "Stripe") {
     },
     null,
     true,
-    'Europe/London'
+    'Asia/Kolkata'
   );
 }
 
